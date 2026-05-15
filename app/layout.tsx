@@ -67,7 +67,7 @@ const jsonLd = {
   "@type": "Organization",
   name: SITE_CONFIG.COMPANY_NAME,
   url: SITE_CONFIG.SITE_URL,
-  logo: `${SITE_CONFIG.SITE_URL}/logo.png`,
+  logo: `${SITE_CONFIG.SITE_URL}/logo.svg`,
   contactPoint: [
     {
       "@type": "ContactPoint",

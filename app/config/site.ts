@@ -16,7 +16,7 @@ export const SITE_CONFIG = {
   META_DESCRIPTION_EN:
     "Join the Bolt Food and Bolt Drive fleet in Slovakia. Flexible work, weekly payments, low commission. Register today.",
   SITE_URL: "https://examplebolt.vercel.app",
-  OG_IMAGE: "/og-image.jpg",
+  OG_IMAGE: "/og-image.svg",
 
   STATS: {
     couriers: "500+",
