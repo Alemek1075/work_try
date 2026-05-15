@@ -100,8 +100,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             __html: `
               (function(){
                 try {
-                  var t = localStorage.getItem('theme') || 'dark';
-                  document.documentElement.setAttribute('data-theme', t);
+                  var t = localStorage.getItem('theme');
+                  if (t === 'light') document.documentElement.setAttribute('data-theme', 'light');
                 } catch(e){}
               })();
             `,
