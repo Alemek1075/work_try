@@ -48,8 +48,8 @@ const en: Record<string, string> = {
   "why.benefit3.desc": "Switch from another fleet and receive a bonus of up to €100.",
   "why.benefit4.title": "Full flexibility",
   "why.benefit4.desc": "Work whenever and as much as you want. No fixed shifts or obligations.",
-  "why.benefit5.title": "Support in SK / EN / UA",
-  "why.benefit5.desc": "Our team speaks Slovak, English, and Ukrainian.",
+  "why.benefit5.title": "Support in SK / EN",
+  "why.benefit5.desc": "Our team speaks Slovak and English.",
   "why.benefit6.title": "No personal interview",
   "why.benefit6.desc": "The entire process is online. No meetings, no stress.",
 
@@ -115,7 +115,7 @@ const en: Record<string, string> = {
   "footer.links": "Quick links",
   "footer.copyright": "© 2025 YourFleet. All rights reserved.",
   "footer.legal_note":
-    "External recruiter communicates in SK/EN/UA. The company has no physical office in Slovakia.",
+    "External recruiter communicates in SK/EN. The company has no physical office in Slovakia.",
   "footer.privacy": "Privacy Policy",
 };
 

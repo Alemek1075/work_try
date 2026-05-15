@@ -74,7 +74,7 @@ const jsonLd = {
       telephone: SITE_CONFIG.PHONE_FOOD,
       contactType: "customer service",
       areaServed: "SK",
-      availableLanguage: ["Slovak", "English", "Ukrainian"],
+      availableLanguage: ["Slovak", "English"],
       productSupported: "Bolt Food",
     },
     {
@@ -82,7 +82,7 @@ const jsonLd = {
       telephone: SITE_CONFIG.PHONE_DRIVE,
       contactType: "customer service",
       areaServed: "SK",
-      availableLanguage: ["Slovak", "English", "Ukrainian"],
+      availableLanguage: ["Slovak", "English"],
       productSupported: "Bolt Drive",
     },
   ],

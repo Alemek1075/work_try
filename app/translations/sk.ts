@@ -48,8 +48,8 @@ const sk: Record<string, string> = {
   "why.benefit3.desc": "Príď od inej flotily a získaj bonus za prestup až €100.",
   "why.benefit4.title": "Plná flexibilita",
   "why.benefit4.desc": "Pracuj kedy chceš, koľko chceš. Žiadne pevné zmeny ani záväzky.",
-  "why.benefit5.title": "Podpora v SK / EN / UA",
-  "why.benefit5.desc": "Náš tím hovorí po slovensky, anglicky aj ukrajinsky.",
+  "why.benefit5.title": "Podpora v SK / EN",
+  "why.benefit5.desc": "Náš tím hovorí po slovensky aj anglicky.",
   "why.benefit6.title": "Bez osobného pohovoru",
   "why.benefit6.desc": "Celý proces prebieha online. Žiadne stretnutia, žiadny stres.",
 
@@ -115,7 +115,7 @@ const sk: Record<string, string> = {
   "footer.links": "Rýchle odkazy",
   "footer.copyright": "© 2025 YourFleet. Všetky práva vyhradené.",
   "footer.legal_note":
-    "Externý recruiter komunikuje v SK/EN/UA. Spoločnosť nemá fyzickú kanceláriu na Slovensku.",
+    "Externý recruiter komunikuje v SK/EN. Spoločnosť nemá fyzickú kanceláriu na Slovensku.",
   "footer.privacy": "Ochrana osobných údajov",
 };
 
